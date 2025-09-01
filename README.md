@@ -1,11 +1,11 @@
 # tugas_flutter_testing
 
-**Widget Test**  
+**Widget Testing**  
 <p align="left">
   <img src="https://github.com/user-attachments/assets/83a87a59-62a6-4730-b256-fd5f65d7c943" width="600" />
 </p>
 
-**Hasil Test**  
+**Hasil Testing**  
 <p align="left">
   <img src="https://github.com/user-attachments/assets/74fa670c-edba-4e15-9ff8-ab1aa7bab614" width="600" />
 </p>
