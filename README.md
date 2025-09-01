@@ -1,6 +1,10 @@
 # tugas_flutter_testing
 
-A new Flutter project.
+**Widget Test**
+<img width="1453" height="212" alt="image" src="https://github.com/user-attachments/assets/83a87a59-62a6-4730-b256-fd5f65d7c943" />
+
+**Hasil Test**
+<img width="789" height="197" alt="image" src="https://github.com/user-attachments/assets/74fa670c-edba-4e15-9ff8-ab1aa7bab614" />
 
 ## Getting Started
 
